@@ -7,6 +7,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Bhanushankar369/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/Bhanushankar369/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0975-range-sum-of-bst](https://github.com/Bhanushankar369/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -39,4 +40,5 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Bhanushankar369/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0764-n-ary-tree-level-order-traversal](https://github.com/Bhanushankar369/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
