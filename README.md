@@ -29,6 +29,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Bhanushankar369/LeetCode/tree/master/0066-plus-one) |
+| [2048-build-array-from-permutation](https://github.com/Bhanushankar369/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2358-number-of-ways-to-split-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 ## Prefix Sum
 |  |
@@ -44,4 +45,8 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0199-binary-tree-right-side-view](https://github.com/Bhanushankar369/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Bhanushankar369/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/Bhanushankar369/LeetCode/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->
