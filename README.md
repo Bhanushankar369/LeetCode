@@ -49,4 +49,8 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Bhanushankar369/LeetCode/tree/master/2048-build-array-from-permutation) |
+## Linked List
+|  |
+| ------- |
+| [1765-merge-in-between-linked-lists](https://github.com/Bhanushankar369/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
 <!---LeetCode Topics End-->
