@@ -39,6 +39,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Bhanushankar369/LeetCode/tree/master/0066-plus-one) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -53,4 +54,9 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [1765-merge-in-between-linked-lists](https://github.com/Bhanushankar369/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
