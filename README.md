@@ -30,6 +30,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | ------- |
 | [0066-plus-one](https://github.com/Bhanushankar369/LeetCode/tree/master/0066-plus-one) |
 | [2048-build-array-from-permutation](https://github.com/Bhanushankar369/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 ## Prefix Sum
 |  |
@@ -50,6 +51,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Bhanushankar369/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Linked List
 |  |
 | ------- |
