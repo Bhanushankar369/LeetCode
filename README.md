@@ -53,10 +53,12 @@ This repository is for the problems that I have solved in my DSA journey.
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Bhanushankar369/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Bhanushankar369/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Linked List
 |  |
 | ------- |
 | [1765-merge-in-between-linked-lists](https://github.com/Bhanushankar369/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Bhanushankar369/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Stack
 |  |
