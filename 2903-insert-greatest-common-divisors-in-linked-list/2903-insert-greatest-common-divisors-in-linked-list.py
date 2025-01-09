@@ -18,13 +18,11 @@ class Solution:
         for i in range(len(lst)-1):
             gcd_lst.append(gcd(lst[i], lst[i+1]))
         k=0
-        print(gcd_lst)
         l=1
         while k<len(gcd_lst):
             lst.insert(l, gcd_lst[k])
             k+=1
             l+=2
-            print(i)
         ans = ListNode(-1)
         tail = ans
         for i in lst:
