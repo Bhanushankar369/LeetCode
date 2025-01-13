@@ -38,6 +38,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [2058-concatenation-of-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bhanushankar369/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bhanushankar369/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
@@ -125,4 +126,8 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/Bhanushankar369/LeetCode/tree/master/1708-design-parking-system) |
+## Matrix
+|  |
+| ------- |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 <!---LeetCode Topics End-->
