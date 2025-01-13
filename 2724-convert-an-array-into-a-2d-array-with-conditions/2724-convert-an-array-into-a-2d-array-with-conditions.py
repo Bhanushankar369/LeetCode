@@ -1,7 +1,6 @@
 class Solution:
     def findMatrix(self, nums: List[int]) -> List[List[int]]:
         dic = collections.Counter(nums)
-        print(dic)
         ans = []
         for i in range(max(dic.values())):
             lst = []
