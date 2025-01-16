@@ -58,6 +58,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | ------- |
 | [0066-plus-one](https://github.com/Bhanushankar369/LeetCode/tree/master/0066-plus-one) |
 | [1635-number-of-good-pairs](https://github.com/Bhanushankar369/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1806-count-of-matches-in-tournament](https://github.com/Bhanushankar369/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Breadth-First Search
@@ -72,6 +73,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | ------- |
 | [1505-create-target-array-in-the-given-order](https://github.com/Bhanushankar369/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1708-design-parking-system](https://github.com/Bhanushankar369/LeetCode/tree/master/1708-design-parking-system) |
+| [1806-count-of-matches-in-tournament](https://github.com/Bhanushankar369/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/Bhanushankar369/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Bhanushankar369/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
