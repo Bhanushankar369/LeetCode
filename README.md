@@ -47,6 +47,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [2358-number-of-ways-to-split-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Bhanushankar369/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Bhanushankar369/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Bhanushankar369/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bhanushankar369/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
@@ -154,6 +155,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | ------- |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Bhanushankar369/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Bhanushankar369/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Bhanushankar369/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Sorting
 |  |
 | ------- |
@@ -162,4 +164,8 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [2128-reverse-prefix-of-word](https://github.com/Bhanushankar369/LeetCode/tree/master/2128-reverse-prefix-of-word) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Bhanushankar369/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
