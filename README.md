@@ -93,6 +93,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Stack
 |  |
 | ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhanushankar369/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Bhanushankar369/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## String
@@ -101,6 +102,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0952-word-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhanushankar369/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhanushankar369/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Bhanushankar369/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2128-reverse-prefix-of-word](https://github.com/Bhanushankar369/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bhanushankar369/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
