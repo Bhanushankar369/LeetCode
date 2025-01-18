@@ -113,6 +113,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1524-string-matching-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhanushankar369/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Bhanushankar369/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Bhanushankar369/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/Bhanushankar369/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bhanushankar369/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -147,6 +148,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bhanushankar369/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhanushankar369/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1635-number-of-good-pairs](https://github.com/Bhanushankar369/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/Bhanushankar369/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Bhanushankar369/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 ## Counting
 |  |
