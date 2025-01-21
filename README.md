@@ -41,6 +41,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Bhanushankar369/LeetCode/tree/master/0066-plus-one) |
+| [0822-unique-morse-code-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0952-word-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0952-word-subsets) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bhanushankar369/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Bhanushankar369/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -114,6 +115,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhanushankar369/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0822-unique-morse-code-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0952-word-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhanushankar369/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -150,6 +152,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Hash Table
 |  |
 | ------- |
+| [0822-unique-morse-code-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0952-word-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0952-word-subsets) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bhanushankar369/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhanushankar369/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
