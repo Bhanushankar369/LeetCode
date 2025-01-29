@@ -41,6 +41,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Bhanushankar369/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhanushankar369/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0822-unique-morse-code-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0952-word-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0952-word-subsets) |
@@ -197,12 +198,14 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Bhanushankar369/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Bhanushankar369/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhanushankar369/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2128-reverse-prefix-of-word](https://github.com/Bhanushankar369/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
