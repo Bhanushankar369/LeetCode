@@ -27,9 +27,9 @@ class Solution {
         int ind = mix.length/2;
         double mid = 0.0;
         if(mix.length % 2 == 0){
-            mid = ((double)mix[ind] + mix[ind-1])/2;
+            mid = (mix[ind] + mix[ind-1])/2.0;
         }else{
-            mid = (double)mix[ind];
+            mid = mix[ind];
         }
         return mid;
     }
