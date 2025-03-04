@@ -91,6 +91,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Bhanushankar369/LeetCode/tree/master/0066-plus-one) |
+| [0326-power-of-three](https://github.com/Bhanushankar369/LeetCode/tree/master/0326-power-of-three) |
 | [1448-maximum-69-number](https://github.com/Bhanushankar369/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Bhanushankar369/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/Bhanushankar369/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -281,4 +282,8 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Bhanushankar369/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Bhanushankar369/LeetCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
