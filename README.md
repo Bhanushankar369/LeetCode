@@ -99,6 +99,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1806-count-of-matches-in-tournament](https://github.com/Bhanushankar369/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bhanushankar369/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bhanushankar369/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Bhanushankar369/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Breadth-First Search
