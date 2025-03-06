@@ -82,6 +82,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [2551-apply-operations-to-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Bhanushankar369/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Bhanushankar369/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [3227-find-missing-and-repeated-values](https://github.com/Bhanushankar369/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bhanushankar369/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
@@ -102,6 +103,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [2649-count-total-number-of-colored-cells](https://github.com/Bhanushankar369/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3227-find-missing-and-repeated-values](https://github.com/Bhanushankar369/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -191,6 +193,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Bhanushankar369/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Bhanushankar369/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Bhanushankar369/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
+| [3227-find-missing-and-repeated-values](https://github.com/Bhanushankar369/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
@@ -217,6 +220,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bhanushankar369/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/Bhanushankar369/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Bit Manipulation
 |  |
 | ------- |
