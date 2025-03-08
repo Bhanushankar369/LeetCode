@@ -158,6 +158,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Bhanushankar369/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bhanushankar369/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bhanushankar369/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bhanushankar369/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
@@ -270,6 +271,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Bhanushankar369/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhanushankar369/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bhanushankar369/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Divide and Conquer
 |  |
 | ------- |
