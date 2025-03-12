@@ -32,6 +32,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0975-range-sum-of-bst](https://github.com/Bhanushankar369/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhanushankar369/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Binary Tree
 |  |
 | ------- |
@@ -81,6 +82,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Bhanushankar369/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Bhanushankar369/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhanushankar369/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Bhanushankar369/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Bhanushankar369/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bhanushankar369/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -213,6 +215,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1635-number-of-good-pairs](https://github.com/Bhanushankar369/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1708-design-parking-system](https://github.com/Bhanushankar369/LeetCode/tree/master/1708-design-parking-system) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Bhanushankar369/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhanushankar369/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Greedy
 |  |
 | ------- |
