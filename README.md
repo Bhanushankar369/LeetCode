@@ -50,6 +50,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhanushankar369/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0039-combination-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/Bhanushankar369/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -326,5 +327,6 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
