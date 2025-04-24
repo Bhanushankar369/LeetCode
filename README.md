@@ -29,6 +29,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhanushankar369/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0975-range-sum-of-bst](https://github.com/Bhanushankar369/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -57,6 +58,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0088-merge-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhanushankar369/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Bhanushankar369/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Bhanushankar369/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Bhanushankar369/LeetCode/tree/master/0238-product-of-array-except-self) |
