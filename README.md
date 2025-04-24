@@ -30,6 +30,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhanushankar369/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0975-range-sum-of-bst](https://github.com/Bhanushankar369/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -63,6 +64,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0217-contains-duplicate](https://github.com/Bhanushankar369/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Bhanushankar369/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Bhanushankar369/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Bhanushankar369/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhanushankar369/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -118,6 +120,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Bhanushankar369/LeetCode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Bhanushankar369/LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Bhanushankar369/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1448-maximum-69-number](https://github.com/Bhanushankar369/LeetCode/tree/master/1448-maximum-69-number) |
@@ -215,6 +218,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Bhanushankar369/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Bhanushankar369/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanushankar369/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0822-unique-morse-code-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0822-unique-morse-code-words) |
@@ -260,6 +264,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/Bhanushankar369/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhanushankar369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Bhanushankar369/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -271,6 +276,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0088-merge-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Bhanushankar369/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Bhanushankar369/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanushankar369/LeetCode/tree/master/0451-sort-characters-by-frequency) |
