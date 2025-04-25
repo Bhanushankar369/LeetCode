@@ -8,7 +8,6 @@ var search = function(nums, target) {
     let right = nums.length-1;
     while(left <= right){
         let mid = parseInt((left+right)/2);
-        console.log(mid)
         if(nums[mid] == target){
             return mid;
         }else if(nums[mid] <= nums[right]){
