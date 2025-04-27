@@ -109,6 +109,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bhanushankar369/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3483-alternating-groups-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/3643-zero-array-transformation-ii) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Bhanushankar369/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Prefix Sum
 |  |
 | ------- |
