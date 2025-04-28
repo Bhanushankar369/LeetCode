@@ -274,6 +274,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0078-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Bhanushankar369/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Bhanushankar369/LeetCode/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Bhanushankar369/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhanushankar369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Bhanushankar369/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -381,4 +382,5 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0053-maximum-subarray](https://github.com/Bhanushankar369/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhanushankar369/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Bhanushankar369/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Bhanushankar369/LeetCode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
