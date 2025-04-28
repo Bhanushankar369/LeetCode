@@ -53,6 +53,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhanushankar369/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Bhanushankar369/LeetCode/tree/master/0053-maximum-subarray) |
@@ -278,6 +279,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Bhanushankar369/LeetCode/tree/master/0217-contains-duplicate) |
@@ -292,6 +294,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Bhanushankar369/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhanushankar369/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
