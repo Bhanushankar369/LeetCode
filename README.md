@@ -125,6 +125,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Bhanushankar369/LeetCode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Bhanushankar369/LeetCode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Bhanushankar369/LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Bhanushankar369/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -380,7 +381,12 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Bhanushankar369/LeetCode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Bhanushankar369/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhanushankar369/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Bhanushankar369/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Bhanushankar369/LeetCode/tree/master/0338-counting-bits) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Bhanushankar369/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
