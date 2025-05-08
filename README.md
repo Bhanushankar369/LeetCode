@@ -190,6 +190,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhanushankar369/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0822-unique-morse-code-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0952-word-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0952-word-subsets) |
+| [1250-longest-common-subsequence](https://github.com/Bhanushankar369/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bhanushankar369/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhanushankar369/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -395,6 +396,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0152-maximum-product-subarray](https://github.com/Bhanushankar369/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Bhanushankar369/LeetCode/tree/master/0338-counting-bits) |
+| [1250-longest-common-subsequence](https://github.com/Bhanushankar369/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
 | ------- |
