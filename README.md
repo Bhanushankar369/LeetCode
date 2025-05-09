@@ -174,6 +174,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bhanushankar369/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Bhanushankar369/LeetCode/tree/master/0141-linked-list-cycle) |
 | [1765-merge-in-between-linked-lists](https://github.com/Bhanushankar369/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Bhanushankar369/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -378,6 +379,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Bhanushankar369/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0326-power-of-three](https://github.com/Bhanushankar369/LeetCode/tree/master/0326-power-of-three) |
 ## Backtracking
 |  |
