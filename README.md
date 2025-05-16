@@ -180,6 +180,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bhanushankar369/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Bhanushankar369/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/0206-reverse-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/Bhanushankar369/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Bhanushankar369/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -385,6 +386,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Bhanushankar369/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Bhanushankar369/LeetCode/tree/master/0326-power-of-three) |
 ## Backtracking
 |  |
