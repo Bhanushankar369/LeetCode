@@ -62,6 +62,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0015-3sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Bhanushankar369/LeetCode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Bhanushankar369/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Bhanushankar369/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0078-subsets) |
@@ -397,6 +398,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Bhanushankar369/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhanushankar369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
