@@ -35,6 +35,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Bhanushankar369/LeetCode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0975-range-sum-of-bst](https://github.com/Bhanushankar369/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -436,4 +437,8 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0128-longest-consecutive-sequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Bhanushankar369/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Bhanushankar369/LeetCode/tree/master/0695-max-area-of-island) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Bhanushankar369/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
