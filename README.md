@@ -19,6 +19,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Bhanushankar369/LeetCode/tree/master/0079-word-search) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhanushankar369/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bhanushankar369/LeetCode/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/Bhanushankar369/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
@@ -67,6 +68,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0053-maximum-subarray](https://github.com/Bhanushankar369/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Bhanushankar369/LeetCode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Bhanushankar369/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Bhanushankar369/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhanushankar369/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -201,6 +203,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Bhanushankar369/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Bhanushankar369/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Bhanushankar369/LeetCode/tree/master/0139-word-break) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanushankar369/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -293,6 +296,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Bhanushankar369/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Bhanushankar369/LeetCode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/Bhanushankar369/LeetCode/tree/master/0695-max-area-of-island) |
@@ -403,6 +407,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0039-combination-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Bhanushankar369/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Bhanushankar369/LeetCode/tree/master/0079-word-search) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhanushankar369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
