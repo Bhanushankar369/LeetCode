@@ -89,6 +89,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0347-top-k-frequent-elements](https://github.com/Bhanushankar369/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Bhanushankar369/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0605-can-place-flowers](https://github.com/Bhanushankar369/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhanushankar369/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/Bhanushankar369/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Bhanushankar369/LeetCode/tree/master/0733-flood-fill) |
@@ -289,6 +290,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhanushankar369/LeetCode/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/Bhanushankar369/LeetCode/tree/master/0605-can-place-flowers) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bhanushankar369/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1448-maximum-69-number](https://github.com/Bhanushankar369/LeetCode/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhanushankar369/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
