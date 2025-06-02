@@ -60,6 +60,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhanushankar369/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Bhanushankar369/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0015-3sum) |
@@ -258,6 +259,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Bhanushankar369/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Bhanushankar369/LeetCode/tree/master/0141-linked-list-cycle) |
