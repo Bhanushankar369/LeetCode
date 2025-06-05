@@ -7,6 +7,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhanushankar369/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhanushankar369/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Bhanushankar369/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Bhanushankar369/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
@@ -20,6 +21,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Bhanushankar369/LeetCode/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhanushankar369/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bhanushankar369/LeetCode/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/Bhanushankar369/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
@@ -50,6 +52,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhanushankar369/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhanushankar369/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Bhanushankar369/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0975-range-sum-of-bst](https://github.com/Bhanushankar369/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -167,6 +170,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhanushankar369/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhanushankar369/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bhanushankar369/LeetCode/tree/master/0200-number-of-islands) |
 | [0513-find-bottom-left-tree-value](https://github.com/Bhanushankar369/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
