@@ -228,6 +228,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bhanushankar369/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0079-word-search](https://github.com/Bhanushankar369/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Bhanushankar369/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Bhanushankar369/LeetCode/tree/master/0139-word-break) |
@@ -368,6 +369,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bhanushankar369/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Bhanushankar369/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Bhanushankar369/LeetCode/tree/master/0075-sort-colors) |
@@ -459,6 +461,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Bhanushankar369/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Bhanushankar369/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Bhanushankar369/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Bhanushankar369/LeetCode/tree/master/0118-pascals-triangle) |
