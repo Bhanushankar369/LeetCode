@@ -163,6 +163,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Bhanushankar369/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Bhanushankar369/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Bhanushankar369/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Bhanushankar369/LeetCode/tree/master/0070-climbing-stairs) |
@@ -229,6 +230,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhanushankar369/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/Bhanushankar369/LeetCode/tree/master/0013-roman-to-integer) |
 | [0079-word-search](https://github.com/Bhanushankar369/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Bhanushankar369/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Bhanushankar369/LeetCode/tree/master/0139-word-break) |
@@ -283,6 +285,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Bhanushankar369/LeetCode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Bhanushankar369/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Bhanushankar369/LeetCode/tree/master/0141-linked-list-cycle) |
