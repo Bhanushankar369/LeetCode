@@ -111,6 +111,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0485-max-consecutive-ones](https://github.com/Bhanushankar369/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/Bhanushankar369/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhanushankar369/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0679-24-game](https://github.com/Bhanushankar369/LeetCode/tree/master/0679-24-game) |
 | [0695-max-area-of-island](https://github.com/Bhanushankar369/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Bhanushankar369/LeetCode/tree/master/0733-flood-fill) |
 | [0822-unique-morse-code-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0822-unique-morse-code-words) |
@@ -174,6 +175,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0268-missing-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Bhanushankar369/LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Bhanushankar369/LeetCode/tree/master/0371-sum-of-two-integers) |
+| [0679-24-game](https://github.com/Bhanushankar369/LeetCode/tree/master/0679-24-game) |
 | [1448-maximum-69-number](https://github.com/Bhanushankar369/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Bhanushankar369/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/Bhanushankar369/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -457,6 +459,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0046-permutations](https://github.com/Bhanushankar369/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Bhanushankar369/LeetCode/tree/master/0079-word-search) |
+| [0679-24-game](https://github.com/Bhanushankar369/LeetCode/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhanushankar369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
 |  |
