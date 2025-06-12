@@ -32,6 +32,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0513-find-bottom-left-tree-value](https://github.com/Bhanushankar369/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0695-max-area-of-island](https://github.com/Bhanushankar369/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Bhanushankar369/LeetCode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Bhanushankar369/LeetCode/tree/master/0744-network-delay-time) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Bhanushankar369/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Bhanushankar369/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -198,6 +199,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0513-find-bottom-left-tree-value](https://github.com/Bhanushankar369/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0695-max-area-of-island](https://github.com/Bhanushankar369/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Bhanushankar369/LeetCode/tree/master/0733-flood-fill) |
+| [0744-network-delay-time](https://github.com/Bhanushankar369/LeetCode/tree/master/0744-network-delay-time) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Bhanushankar369/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bhanushankar369/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
@@ -406,6 +408,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0347-top-k-frequent-elements](https://github.com/Bhanushankar369/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanushankar369/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0744-network-delay-time](https://github.com/Bhanushankar369/LeetCode/tree/master/0744-network-delay-time) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Sliding Window
@@ -499,4 +502,12 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Bhanushankar369/LeetCode/tree/master/0278-first-bad-version) |
+## Graph
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Bhanushankar369/LeetCode/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Bhanushankar369/LeetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
