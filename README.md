@@ -84,6 +84,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0039-combination-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Bhanushankar369/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Bhanushankar369/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Bhanushankar369/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Bhanushankar369/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Bhanushankar369/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Bhanushankar369/LeetCode/tree/master/0066-plus-one) |
@@ -244,6 +245,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0005-longest-palindromic-substring](https://github.com/Bhanushankar369/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Bhanushankar369/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Bhanushankar369/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Bhanushankar369/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Bhanushankar369/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Bhanushankar369/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Bhanushankar369/LeetCode/tree/master/0139-word-break) |
@@ -302,6 +304,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | ------- |
 | [0001-two-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Bhanushankar369/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Bhanushankar369/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Bhanushankar369/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Bhanushankar369/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -378,6 +381,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Bhanushankar369/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Bhanushankar369/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Bhanushankar369/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0088-merge-sorted-array) |
