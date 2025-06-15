@@ -246,6 +246,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0008-string-to-integer-atoi](https://github.com/Bhanushankar369/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Bhanushankar369/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Bhanushankar369/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Bhanushankar369/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Bhanushankar369/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Bhanushankar369/LeetCode/tree/master/0125-valid-palindrome) |
@@ -481,6 +482,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/Bhanushankar369/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Bhanushankar369/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0078-subsets) |
@@ -499,6 +501,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Bhanushankar369/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Bhanushankar369/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Bhanushankar369/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Bhanushankar369/LeetCode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Bhanushankar369/LeetCode/tree/master/0118-pascals-triangle) |
