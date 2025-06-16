@@ -111,6 +111,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0347-top-k-frequent-elements](https://github.com/Bhanushankar369/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/Bhanushankar369/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/Bhanushankar369/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhanushankar369/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0679-24-game](https://github.com/Bhanushankar369/LeetCode/tree/master/0679-24-game) |
@@ -487,6 +488,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0046-permutations](https://github.com/Bhanushankar369/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Bhanushankar369/LeetCode/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Bhanushankar369/LeetCode/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhanushankar369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Combinatorics
@@ -512,6 +514,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0213-house-robber-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Bhanushankar369/LeetCode/tree/master/0338-counting-bits) |
+| [0494-target-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0494-target-sum) |
 | [1250-longest-common-subsequence](https://github.com/Bhanushankar369/LeetCode/tree/master/1250-longest-common-subsequence) |
 ## Memoization
 |  |
