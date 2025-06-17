@@ -11,6 +11,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0112-path-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bhanushankar369/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhanushankar369/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Bhanushankar369/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Bhanushankar369/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -29,6 +30,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bhanushankar369/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhanushankar369/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bhanushankar369/LeetCode/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Bhanushankar369/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0695-max-area-of-island](https://github.com/Bhanushankar369/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Bhanushankar369/LeetCode/tree/master/0733-flood-fill) |
@@ -65,6 +67,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0112-path-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bhanushankar369/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhanushankar369/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Bhanushankar369/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Bhanushankar369/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -201,6 +204,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bhanushankar369/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhanushankar369/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bhanushankar369/LeetCode/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Bhanushankar369/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0695-max-area-of-island](https://github.com/Bhanushankar369/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Bhanushankar369/LeetCode/tree/master/0733-flood-fill) |
@@ -253,6 +257,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0125-valid-palindrome](https://github.com/Bhanushankar369/LeetCode/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Bhanushankar369/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhanushankar369/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanushankar369/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhanushankar369/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Bhanushankar369/LeetCode/tree/master/0567-permutation-in-string) |
@@ -354,6 +359,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1708-design-parking-system](https://github.com/Bhanushankar369/LeetCode/tree/master/1708-design-parking-system) |
 ## Matrix
 |  |
