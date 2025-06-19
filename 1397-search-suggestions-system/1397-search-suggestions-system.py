@@ -1,14 +1,15 @@
 class Solution:
-    def suggestedProducts(self, arr: List[str], searchWord: str) -> List[List[str]]:
-        n = len(arr)
+    def suggestedProducts(self, products: List[str], searchWord: str) -> List[List[str]]:
+        n = len(products)
 
-        for i in range(n):
-            min_ind = i
-            for j in range(i+1, n):
-                if arr[j] < arr[min_ind]:
-                    min_ind = j
+        # for i in range(n):
+        #     min_ind = i
+        #     for j in range(i+1, n):
+        #         if arr[j] < arr[min_ind]:
+        #             min_ind = j
 
-            arr[i], arr[min_ind] = arr[min_ind], arr[i]
+        #     arr[i], arr[min_ind] = arr[min_ind], arr[i]
+        arr = sorted(products)
 
         left = 0
         right = n-1
