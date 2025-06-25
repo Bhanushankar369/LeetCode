@@ -18,4 +18,6 @@ class Solution:
                         dq.append(ele.right)
                 depth += 1
             return depth
+        if not root:
+            return 0
         return bfs(root)
