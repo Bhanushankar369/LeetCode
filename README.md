@@ -244,6 +244,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Bhanushankar369/LeetCode/tree/master/0020-valid-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhanushankar369/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Bhanushankar369/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -254,6 +255,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0008-string-to-integer-atoi](https://github.com/Bhanushankar369/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Bhanushankar369/LeetCode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Bhanushankar369/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Bhanushankar369/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Bhanushankar369/LeetCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Bhanushankar369/LeetCode/tree/master/0079-word-search) |
