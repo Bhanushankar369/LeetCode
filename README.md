@@ -34,6 +34,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0112-path-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bhanushankar369/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Bhanushankar369/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/Bhanushankar369/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhanushankar369/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bhanushankar369/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -112,6 +113,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0118-pascals-triangle](https://github.com/Bhanushankar369/LeetCode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhanushankar369/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Bhanushankar369/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Bhanushankar369/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Bhanushankar369/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -220,6 +222,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bhanushankar369/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0130-surrounded-regions](https://github.com/Bhanushankar369/LeetCode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhanushankar369/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Bhanushankar369/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -398,6 +401,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | ------- |
 | [0048-rotate-image](https://github.com/Bhanushankar369/LeetCode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Bhanushankar369/LeetCode/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/Bhanushankar369/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bhanushankar369/LeetCode/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/Bhanushankar369/LeetCode/tree/master/0695-max-area-of-island) |
@@ -571,6 +575,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Bhanushankar369/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bhanushankar369/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Bhanushankar369/LeetCode/tree/master/0695-max-area-of-island) |
 ## Interactive
