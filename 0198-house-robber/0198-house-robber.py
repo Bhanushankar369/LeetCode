@@ -1,18 +1,17 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        dp = [-1] * len(nums)
-        def recurs(ind, nums, dp):
-            if ind == 0:
-                return nums[0]
-            if ind < 0:
-                return 0
+        if len(nums) <= 2:
+            return max(nums)
 
-            if dp[ind] != -1:
-                return dp[ind]
+        dp = [0] * (len(nums))
+        dp[0] = nums[0]
+        dp[1] = nums[1]
 
-            pick = nums[ind] + recurs(ind-2, nums, dp)
-            not_pick = recurs(ind-1, nums, dp)
-            dp[ind] = max(pick, not_pick)
-            return dp[ind]
+        m = dp[0]
 
-        return recurs(len(nums)-1, nums, dp)
+        for i in range(2, len(nums)):
+            dp[i] = nums[i] + m
+            if dp[i-1] > m:
+                m = dp[i-1]
+        
+        return max(dp)
