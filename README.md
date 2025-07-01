@@ -137,6 +137,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0494-target-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/Bhanushankar369/LeetCode/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhanushankar369/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/Bhanushankar369/LeetCode/tree/master/0679-24-game) |
 | [0692-top-k-frequent-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Bhanushankar369/LeetCode/tree/master/0695-max-area-of-island) |
