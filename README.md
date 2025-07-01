@@ -316,6 +316,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [3194-find-words-containing-character](https://github.com/Bhanushankar369/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bhanushankar369/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3617-find-the-original-typed-string-i](https://github.com/Bhanushankar369/LeetCode/tree/master/3617-find-the-original-typed-string-i) |
 ## String Matching
 |  |
 | ------- |
