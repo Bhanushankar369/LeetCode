@@ -219,6 +219,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bhanushankar369/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bhanushankar369/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -255,6 +256,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bhanushankar369/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Bhanushankar369/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2551-apply-operations-to-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bhanushankar369/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
 | ------- |
@@ -430,6 +432,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Bhanushankar369/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Bhanushankar369/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Bhanushankar369/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bhanushankar369/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
 | ------- |
@@ -535,6 +538,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0021-merge-two-sorted-lists](https://github.com/Bhanushankar369/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Bhanushankar369/LeetCode/tree/master/0326-power-of-three) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bhanushankar369/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
 | ------- |
