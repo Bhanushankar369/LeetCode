@@ -1,24 +1,25 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        edges = defaultdict(list)
-        for i, j in prerequisites:
-            edges[i].append(j)
-        
+        edges = collections.defaultdict(list)
+
+        for u, v in prerequisites:
+            edges[u].append(v)
+
         visited = set()
-        def dfs(pre):
-            if pre in visited:
+        def dfs(node):
+            if node in visited:
                 return False
-            if not edges[pre]:
+            if not edges[node]:
                 return True
-            visited.add(pre)
-            for i in edges[pre]:
-                if not dfs(i):
+            visited.add(node)
+            for nei in edges[node]:
+                if not dfs(nei):
                     return False
-            
-            visited.discard(pre)
-            edges[pre] = []
+            visited.discard(node)
+            edges[node] = []
             return True
-        
+
+
         for i in range(numCourses):
             if not dfs(i):
                 return False
