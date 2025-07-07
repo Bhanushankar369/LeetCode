@@ -5,18 +5,20 @@ class Solution:
         for u, v in prerequisites:
             edges[u].append(v)
 
-        visited = set()
+        visiting = set()
+        processed = set()
+        
         def dfs(node):
-            if node in visited:
+            if node in visiting:
                 return False
-            if not edges[node]:
+            if node in processed:
                 return True
-            visited.add(node)
+            visiting.add(node)
             for nei in edges[node]:
                 if not dfs(nei):
                     return False
-            visited.discard(node)
-            edges[node] = []
+            visiting.remove(node)
+            processed.add(node)
             return True
 
 
