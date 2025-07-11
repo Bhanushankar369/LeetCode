@@ -1,20 +1,34 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        def dfs(grid, x, y):
-            if (x<0 or x>=len(grid) or y<0 or y>=len(grid[0]) or grid[x][y] != '1'):
-                return
+        m = len(grid)
+        n = len(grid[0])
+
+        visited = set()
+        directions = [(-1, 0), (1, 0), (0, -1), (0, 1)]
+        def bfs(ir, ic):
+            dq = deque([(ir, ic)])
             
-            grid[x][y] = '*'
+            while dq:
+                nr, nc = dq.popleft()
+                for r, c in directions:
+                    row = nr+r
+                    col = nc+c
 
-            dfs(grid, x-1, y)
-            dfs(grid, x+1, y)
-            dfs(grid, x, y-1)
-            dfs(grid, x, y+1)
+                    if (row < 0 or row >= m or col < 0 or col >= n
+                        or (row, col) in visited or grid[row][col] != "1"):
+                        continue
 
-        ans = 0
-        for i in range(len(grid)):
-            for j in range(len(grid[0])):
-                if grid[i][j] == '1':
-                    ans += 1
-                    dfs(grid, i, j)
-        return ans
+                    dq.append((row, col))
+                    visited.add((row, col))
+
+                    grid[row][col] = "-1"
+
+        count = 0
+        for i in range(m):
+            for j in range(n):
+                if grid[i][j] == "1":
+                    count += 1
+                    bfs(i, j)
+        return count
+
+                    
