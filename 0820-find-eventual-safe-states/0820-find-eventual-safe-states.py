@@ -1,34 +1,28 @@
 class Solution:
     def eventualSafeNodes(self, graph: List[List[int]]) -> List[int]:
         n = len(graph)
-        visit = [0]*n
-        path = [0]*n
-        check = [0]*n
-
-        def dfs(node):
-            visit[node] = 1
-            path[node] = 1
-
-            for nei in graph[node]:
-                if not visit[nei]:
-                    if dfs(nei):
-                        return True
-
-                elif path[nei]:
-                    return True
-
-            check[node] = 1
-            path[node] = 0
-            return False
-
+        map = defaultdict(list)
+        indeg = [0]*n
 
         for i in range(n):
-            if not visit[i]:
-                dfs(i)
+            for j in graph[i]:
+                map[j].append(i)
+                indeg[i] += 1
+
+        dq = deque([])
+        for i in range(n):
+            if indeg[i] == 0:
+                dq.append(i)
+
+        safe = []
+
+        while dq:
+            node = dq.popleft()
+            safe.append(node)
+            for nei in map[node]:
+                indeg[nei] -= 1
+                if indeg[nei] == 0:
+                    dq.append(nei)
+
+        return sorted(safe)
         
-        ans = []
-        for i in range(n):
-            if check[i]:
-                ans.append(i)
-
-        return ans
