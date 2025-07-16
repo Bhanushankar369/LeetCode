@@ -11,6 +11,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bhanushankar369/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Bhanushankar369/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -38,6 +39,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0101-symmetric-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bhanushankar369/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Bhanushankar369/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -100,6 +102,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bhanushankar369/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Bhanushankar369/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -604,6 +607,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0046-permutations](https://github.com/Bhanushankar369/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Bhanushankar369/LeetCode/tree/master/0079-word-search) |
+| [0113-path-sum-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Bhanushankar369/LeetCode/tree/master/0679-24-game) |
 | [0813-all-paths-from-source-to-target](https://github.com/Bhanushankar369/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
