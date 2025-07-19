@@ -17,6 +17,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0129-sum-root-to-leaf-numbers](https://github.com/Bhanushankar369/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhanushankar369/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Bhanushankar369/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Bhanushankar369/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
@@ -51,6 +52,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0207-course-schedule](https://github.com/Bhanushankar369/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Bhanushankar369/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/Bhanushankar369/LeetCode/tree/master/0419-battleships-in-a-board) |
@@ -110,6 +112,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0129-sum-root-to-leaf-numbers](https://github.com/Bhanushankar369/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Bhanushankar369/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Bhanushankar369/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Bhanushankar369/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
