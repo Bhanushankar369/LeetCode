@@ -78,6 +78,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bhanushankar369/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1558-course-schedule-iv](https://github.com/Bhanushankar369/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/Bhanushankar369/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
@@ -305,6 +306,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1243-sum-of-nodes-with-even-valued-grandparent](https://github.com/Bhanushankar369/LeetCode/tree/master/1243-sum-of-nodes-with-even-valued-grandparent) |
 | [1254-deepest-leaves-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/1254-deepest-leaves-sum) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
+| [1558-course-schedule-iv](https://github.com/Bhanushankar369/LeetCode/tree/master/1558-course-schedule-iv) |
 | [1753-path-with-minimum-effort](https://github.com/Bhanushankar369/LeetCode/tree/master/1753-path-with-minimum-effort) |
 ## Simulation
 |  |
@@ -694,6 +696,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0813-all-paths-from-source-to-target](https://github.com/Bhanushankar369/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Bhanushankar369/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Bhanushankar369/LeetCode/tree/master/0871-keys-and-rooms) |
+| [1558-course-schedule-iv](https://github.com/Bhanushankar369/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bhanushankar369/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
@@ -707,5 +710,6 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0207-course-schedule](https://github.com/Bhanushankar369/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Bhanushankar369/LeetCode/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/Bhanushankar369/LeetCode/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Bhanushankar369/LeetCode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
