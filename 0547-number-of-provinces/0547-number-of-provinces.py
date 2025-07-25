@@ -1,26 +1,39 @@
+class DisjointSet:
+    def __init__(self, n):
+        self.rank = [0]*(n)
+        self.parent = [i for i in range(n)]
+
+    def findPar(self, node):
+        if node == self.parent[node]:
+            return node
+        self.parent[node] = self.findPar(self.parent[node])
+        return self.parent[node]
+
+    def unionByRank(self, u, v):
+        ulu_u = self.findPar(u)
+        ulu_v = self.findPar(v)
+
+        if ulu_u == ulu_v: return
+        if self.rank[ulu_u] < self.rank[ulu_v]:
+            self.parent[ulu_u] = ulu_v
+        elif self.rank[ulu_u] > self.rank[ulu_v]:
+            self.parent[ulu_v] = ulu_u
+        else:
+            self.parent[ulu_v] = ulu_u
+            self.rank[ulu_u] += 1
+
 class Solution:
     def findCircleNum(self, isConnected: List[List[int]]) -> int:
-        lst = collections.defaultdict(list)
         n = len(isConnected)
+        ds = DisjointSet(n)
+
         for i in range(n):
-            for j in range(n):
-                if isConnected[i][j] == 1 and isConnected[j][i] == 1:
-                    lst[i+1].append(j+1)
-        
-        valid = [True] * n
-        count = 0
+            for j in range(i+1, n):  # Only Upper Triangle
+                if isConnected[i][j] == 1:
+                    ds.unionByRank(i, j)
 
-        def dfs(node):
-            if not valid[node-1]:
-                return 
-            valid[node-1] = False
-            for nei in lst[node]:
-                dfs(nei)
+        components = set()
+        for i in range(n):
+            components.add(ds.findPar(i))
 
-
-        for i in range(1, n+1):
-            if valid[i-1]:
-                count += 1
-                dfs(i)
-
-        return count
+        return len(components)
