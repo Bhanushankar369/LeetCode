@@ -1,30 +1,40 @@
+val = 10**8
 class Solution:
-    def findTheCity(self, n: int, edges: List[List[int]], distanceThreshold: int) -> int:
-        dist = [[float('inf') for _ in range(n)] for _ in range(n)]
-        for i in range(n):
-            dist[i][i] = 0
-
+    def findTheCity(self, num: int, edges: List[List[int]], distanceThreshold: int) -> int:
+        map = defaultdict(list)
         for u, v, w in edges:
-            dist[u][v] = w
-            dist[v][u] = w
+            map[u].append((v, w))
+            map[v].append((u, w))
 
-        for via in range(n):
-            for i in range(n):
-                for j in range(n):
-                    if dist[i][via] != float('inf') and dist[via][j] != float('inf'):
-                        dist[i][j] = min(dist[i][j], dist[i][via]+dist[via][j])
+        def dijkstra(src):
+            dist = [float('inf')]*num
+            dist[src] = 0
 
-        city = -1
-        city_neis = float('inf')
+            heap =  []
+            heapq.heappush(heap, (0, src))
 
-        for i in range(n):
-            val = 0
-            for j in range(n):
-                if dist[i][j] <= distanceThreshold:
-                    val += 1
+            while heap:
+                distance, node = heapq.heappop(heap)
+                for nei, wei in map[node]:
+                    if dist[nei] > distance + wei:
+                        dist[nei] = distance + wei
+                        heapq.heappush(heap, (distance+wei, nei))
+            return dist
 
-            if city_neis >= val:
-                city_neis = val
-                city = i
-        
-        return city
+        result_node = -1
+        result_neis = float('inf')
+
+        for i in range(num):
+            arr = dijkstra(i)
+            count = 0
+            for n in arr:
+                if n <= distanceThreshold:
+                    count += 1
+            
+            if result_neis >= count:
+                result_neis = count
+                result_node = i
+
+        return result_node
+
+            
