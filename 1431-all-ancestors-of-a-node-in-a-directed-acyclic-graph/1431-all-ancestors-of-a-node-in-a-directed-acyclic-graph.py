@@ -14,6 +14,7 @@ class Solution:
             for nei in map[node]:
                 ancestor.add(nei)
                 ancestor.update(dfs(nei))
+                # Update is used to add group of elements without repetition
 
             dp[node] = sorted(ancestor)
             return dp[node]
