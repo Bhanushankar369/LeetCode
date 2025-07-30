@@ -75,6 +75,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0871-keys-and-rooms](https://github.com/Bhanushankar369/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Bhanushankar369/LeetCode/tree/master/0904-leaf-similar-trees) |
 | [0975-range-sum-of-bst](https://github.com/Bhanushankar369/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Bhanushankar369/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/Bhanushankar369/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Bhanushankar369/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -452,6 +453,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0822-unique-morse-code-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Bhanushankar369/LeetCode/tree/master/0837-most-common-word) |
 | [0952-word-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0952-word-subsets) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Bhanushankar369/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Bhanushankar369/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bhanushankar369/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhanushankar369/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -697,6 +699,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0721-accounts-merge](https://github.com/Bhanushankar369/LeetCode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/Bhanushankar369/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/Bhanushankar369/LeetCode/tree/master/0854-making-a-large-island) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Bhanushankar369/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/Bhanushankar369/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Bhanushankar369/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Bhanushankar369/LeetCode/tree/master/1753-path-with-minimum-effort) |
@@ -718,6 +721,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0813-all-paths-from-source-to-target](https://github.com/Bhanushankar369/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Bhanushankar369/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0871-keys-and-rooms](https://github.com/Bhanushankar369/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Bhanushankar369/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Bhanushankar369/LeetCode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Bhanushankar369/LeetCode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Bhanushankar369/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
