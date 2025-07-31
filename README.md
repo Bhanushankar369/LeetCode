@@ -54,6 +54,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0226-invert-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/Bhanushankar369/LeetCode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Bhanushankar369/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/Bhanushankar369/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0513-find-bottom-left-tree-value](https://github.com/Bhanushankar369/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
@@ -177,6 +178,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0300-longest-increasing-subsequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Bhanushankar369/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0399-evaluate-division](https://github.com/Bhanushankar369/LeetCode/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/Bhanushankar369/LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0485-max-consecutive-ones](https://github.com/Bhanushankar369/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0494-target-sum) |
@@ -293,6 +295,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0210-course-schedule-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0399-evaluate-division](https://github.com/Bhanushankar369/LeetCode/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/Bhanushankar369/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Bhanushankar369/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0542-01-matrix) |
@@ -372,6 +375,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0242-valid-anagram](https://github.com/Bhanushankar369/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Bhanushankar369/LeetCode/tree/master/0344-reverse-string) |
+| [0399-evaluate-division](https://github.com/Bhanushankar369/LeetCode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Bhanushankar369/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanushankar369/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhanushankar369/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -693,6 +697,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0128-longest-consecutive-sequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Bhanushankar369/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bhanushankar369/LeetCode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/Bhanushankar369/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Bhanushankar369/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Bhanushankar369/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Bhanushankar369/LeetCode/tree/master/0695-max-area-of-island) |
@@ -713,6 +718,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0133-clone-graph](https://github.com/Bhanushankar369/LeetCode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Bhanushankar369/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0399-evaluate-division](https://github.com/Bhanushankar369/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Bhanushankar369/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Bhanushankar369/LeetCode/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Bhanushankar369/LeetCode/tree/master/0744-network-delay-time) |
@@ -730,6 +736,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/Bhanushankar369/LeetCode/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/Bhanushankar369/LeetCode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhanushankar369/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Bhanushankar369/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
