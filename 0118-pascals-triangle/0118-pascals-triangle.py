@@ -5,6 +5,7 @@ class Solution:
             level = [1]
             for j in range(1, i):
                 level.append(ans[i-1][j-1] + ans[i-1][j])
+                print(ans[i-1][j-1])
             level.append(1)
             ans.append(level)
         return ans
