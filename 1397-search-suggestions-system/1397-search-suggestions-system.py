@@ -1,27 +1,35 @@
+class TrieNode:
+    def __init__(self):
+        self.children = dict()
+        self.words = list()
+        self.n = 0
+
+class Trie:
+    def __init__(self):
+        self.root = TrieNode()
+        self.node = self.root
+
+    def add_word(self, word):
+        node = self.root
+        for c in word:
+            if c not in node.children:
+                node.children[c] = TrieNode()
+            node = node.children[c]
+            if node.n < 3:
+                node.words.append(word)
+                node.n += 1
+
+    def find_word_by_prefix(self, c):
+        if self.node and c in self.node.children:
+            self.node = self.node.children[c]
+            return self.node.words
+        else:
+            self.node = None
+            return []
+
 class Solution:
     def suggestedProducts(self, products: List[str], searchWord: str) -> List[List[str]]:
-        n = len(products)
-
-        # for i in range(n):
-        #     min_ind = i
-        #     for j in range(i+1, n):
-        #         if arr[j] < arr[min_ind]:
-        #             min_ind = j
-
-        #     arr[i], arr[min_ind] = arr[min_ind], arr[i]
-        arr = sorted(products)
-
-        left = 0
-        right = n-1
-
-        res = []
-        for ind in range(len(searchWord)):
-            while left<=right and (len(arr[left]) <= ind or searchWord[ind] != arr[left][ind]):
-                left += 1
-            while left<=right and (len(arr[right]) <= ind or searchWord[ind] != arr[right][ind]):
-                right -= 1
-            new = []
-            for j in range(min(3, right-left+1)):
-                new.append(arr[left+j])
-            res.append(new)
-        return res
+        products.sort()
+        trie = Trie()
+        for word in products: trie.add_word(word)
+        return [trie.find_word_by_prefix(c) for c in searchWord]
