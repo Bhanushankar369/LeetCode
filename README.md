@@ -385,6 +385,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0242-valid-anagram](https://github.com/Bhanushankar369/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Bhanushankar369/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/Bhanushankar369/LeetCode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Bhanushankar369/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanushankar369/LeetCode/tree/master/0451-sort-characters-by-frequency) |
@@ -584,6 +585,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0141-linked-list-cycle](https://github.com/Bhanushankar369/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhanushankar369/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Bhanushankar369/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Bhanushankar369/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Bhanushankar369/LeetCode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhanushankar369/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -699,6 +701,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0213-house-robber-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/Bhanushankar369/LeetCode/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0392-is-subsequence) |
 | [0494-target-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhanushankar369/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
