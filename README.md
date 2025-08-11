@@ -404,6 +404,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhanushankar369/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Bhanushankar369/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Bhanushankar369/LeetCode/tree/master/1823-determine-if-string-halves-are-alike) |
+| [1894-merge-strings-alternately](https://github.com/Bhanushankar369/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Bhanushankar369/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2128-reverse-prefix-of-word](https://github.com/Bhanushankar369/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Bhanushankar369/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -588,6 +589,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhanushankar369/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Bhanushankar369/LeetCode/tree/master/0567-permutation-in-string) |
 | [0861-flipping-an-image](https://github.com/Bhanushankar369/LeetCode/tree/master/0861-flipping-an-image) |
+| [1894-merge-strings-alternately](https://github.com/Bhanushankar369/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/Bhanushankar369/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bhanushankar369/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
