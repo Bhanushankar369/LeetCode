@@ -2,8 +2,9 @@ class Solution:
     def isSubsequence(self, s: str, t: str) -> bool:
         if not s:
             return True
-        if not t:
+        if not t or len(s) > len(t):
             return False
+        
         ind = 0
         curr = s[0]
         for i in range(len(t)):
