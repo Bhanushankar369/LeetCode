@@ -153,6 +153,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0048-rotate-image](https://github.com/Bhanushankar369/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Bhanushankar369/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Bhanushankar369/LeetCode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Bhanushankar369/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Bhanushankar369/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Bhanushankar369/LeetCode/tree/master/0075-sort-colors) |
@@ -337,6 +338,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0054-spiral-matrix) |
 | [0861-flipping-an-image](https://github.com/Bhanushankar369/LeetCode/tree/master/0861-flipping-an-image) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Bhanushankar369/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1708-design-parking-system](https://github.com/Bhanushankar369/LeetCode/tree/master/1708-design-parking-system) |
@@ -523,6 +525,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Bhanushankar369/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Bhanushankar369/LeetCode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Bhanushankar369/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Bhanushankar369/LeetCode/tree/master/0200-number-of-islands) |
