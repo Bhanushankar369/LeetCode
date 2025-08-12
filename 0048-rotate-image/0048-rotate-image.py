@@ -7,6 +7,14 @@ class Solution:
             for j in range(i):
                 matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
 
+        print(matrix)
+
         for i in range(len(matrix)):
-            for j in range(len(matrix)//2):
-                matrix[i][j], matrix[i][len(matrix)-j-1] = matrix[i][len(matrix)-j-1], matrix[i][j]
+            left = 0
+            right = len(matrix[0])-1
+            while left < right:
+                matrix[i][left], matrix[i][right] = matrix[i][right], matrix[i][left]
+                left += 1
+                right -= 1
+
+        return matrix
