@@ -3,8 +3,11 @@ class Solution:
         map_s = collections.Counter(s)
         map_t = collections.Counter(t)
 
-        for char in set(s):
-            if map_s[char] != map_t[char]:
+        if len(map_s) != len(map_t):
+            return False
+
+        for key, val in map_s.items():
+            if val != map_t[key]:
                 return False
         
         return True
