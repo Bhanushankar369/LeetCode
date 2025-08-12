@@ -391,6 +391,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0242-valid-anagram](https://github.com/Bhanushankar369/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/Bhanushankar369/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Bhanushankar369/LeetCode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/Bhanushankar369/LeetCode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Bhanushankar369/LeetCode/tree/master/0443-string-compression) |
@@ -472,6 +473,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0242-valid-anagram](https://github.com/Bhanushankar369/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Bhanushankar369/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Bhanushankar369/LeetCode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanushankar369/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/Bhanushankar369/LeetCode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -498,6 +500,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | ------- |
 | [0169-majority-element](https://github.com/Bhanushankar369/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Bhanushankar369/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Bhanushankar369/LeetCode/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanushankar369/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/Bhanushankar369/LeetCode/tree/master/0837-most-common-word) |
