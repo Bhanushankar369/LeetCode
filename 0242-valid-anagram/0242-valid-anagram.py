@@ -1,15 +1,10 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        if len(s) != len(t):
-            return False
-        alpha = [0]*26
-        for ind in range(len(s)):
-            alpha[ord(s[ind])-ord('a')] += 1
-            alpha[ord(t[ind])-ord('a')] -= 1
+        map_s = collections.Counter(s)
+        map_t = collections.Counter(t)
 
-        for n in alpha:
-            if n!= 0:
+        for char in set(s):
+            if map_s[char] != map_t[char]:
                 return False
         
         return True
-         
