@@ -6,7 +6,7 @@ class Solution:
         ind = len(nums)-1
 
         while i <= j:
-            if nums[i]*nums[i] < nums[j]*nums[j]:
+            if abs(nums[i]) < abs(nums[j]):
                 squares[ind] = nums[j]*nums[j]
                 j-=1
             else:
