@@ -94,6 +94,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhanushankar369/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Bhanushankar369/LeetCode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -170,6 +171,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0139-word-break](https://github.com/Bhanushankar369/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Bhanushankar369/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhanushankar369/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Bhanushankar369/LeetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Bhanushankar369/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Bhanushankar369/LeetCode/tree/master/0200-number-of-islands) |
@@ -608,6 +610,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0125-valid-palindrome](https://github.com/Bhanushankar369/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Bhanushankar369/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhanushankar369/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhanushankar369/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Bhanushankar369/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Bhanushankar369/LeetCode/tree/master/0443-string-compression) |
