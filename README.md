@@ -169,6 +169,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0130-surrounded-regions](https://github.com/Bhanushankar369/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Bhanushankar369/LeetCode/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Bhanushankar369/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Bhanushankar369/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhanushankar369/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -277,6 +278,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0048-rotate-image](https://github.com/Bhanushankar369/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Bhanushankar369/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Bhanushankar369/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Bhanushankar369/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Bhanushankar369/LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Bhanushankar369/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -376,6 +378,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhanushankar369/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Bhanushankar369/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/Bhanushankar369/LeetCode/tree/master/0682-baseball-game) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhanushankar369/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Bhanushankar369/LeetCode/tree/master/2128-reverse-prefix-of-word) |
