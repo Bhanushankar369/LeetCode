@@ -92,6 +92,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Bhanushankar369/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Bhanushankar369/LeetCode/tree/master/0035-search-insert-position) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Bhanushankar369/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -149,6 +150,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0014-longest-common-prefix](https://github.com/Bhanushankar369/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/Bhanushankar369/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Bhanushankar369/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Bhanushankar369/LeetCode/tree/master/0046-permutations) |
