@@ -99,6 +99,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0268-missing-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Bhanushankar369/LeetCode/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0367-valid-perfect-square](https://github.com/Bhanushankar369/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0907-koko-eating-bananas](https://github.com/Bhanushankar369/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -283,6 +284,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhanushankar369/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Bhanushankar369/LeetCode/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/Bhanushankar369/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Bhanushankar369/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0679-24-game](https://github.com/Bhanushankar369/LeetCode/tree/master/0679-24-game) |
 | [1448-maximum-69-number](https://github.com/Bhanushankar369/LeetCode/tree/master/1448-maximum-69-number) |
