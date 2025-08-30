@@ -1,14 +1,18 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        ds = []
-        ans = []
-        def recur(ind, nums, ds, ans):
-            if ind == len(nums):
-                ans.append(ds[:])
-                return
-            ds.append(nums[ind])
-            recur(ind+1, nums, ds, ans)
-            ds.remove(nums[ind])
-            recur(ind+1, nums, ds, ans)
-        recur(0, nums, ds, ans)
-        return ans
+        dest = 2**len(nums)
+        res = []
+
+        for i in range(dest):
+            lst = []
+            ind = 0
+            while i != 0:
+                if (i%2):
+                    lst.append(nums[ind])
+                
+                ind += 1
+                i //= 2
+
+            res.append(lst)
+        
+        return res
