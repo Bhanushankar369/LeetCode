@@ -173,6 +173,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0128-longest-consecutive-sequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Bhanushankar369/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Bhanushankar369/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhanushankar369/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Bhanushankar369/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -578,6 +579,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | ------- |
 | [0078-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Bhanushankar369/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Bhanushankar369/LeetCode/tree/master/0338-counting-bits) |
