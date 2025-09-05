@@ -10,6 +10,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhanushankar369/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bhanushankar369/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -40,6 +41,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0079-word-search](https://github.com/Bhanushankar369/LeetCode/tree/master/0079-word-search) |
 | [0101-symmetric-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bhanushankar369/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -121,6 +123,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0102-binary-tree-level-order-traversal](https://github.com/Bhanushankar369/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bhanushankar369/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
