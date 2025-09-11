@@ -211,6 +211,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0695-max-area-of-island](https://github.com/Bhanushankar369/LeetCode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/Bhanushankar369/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Bhanushankar369/LeetCode/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Bhanushankar369/LeetCode/tree/master/0739-daily-temperatures) |
 | [0822-unique-morse-code-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Bhanushankar369/LeetCode/tree/master/0837-most-common-word) |
 | [0854-making-a-large-island](https://github.com/Bhanushankar369/LeetCode/tree/master/0854-making-a-large-island) |
@@ -390,6 +391,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0020-valid-parentheses](https://github.com/Bhanushankar369/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhanushankar369/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/Bhanushankar369/LeetCode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/Bhanushankar369/LeetCode/tree/master/0739-daily-temperatures) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhanushankar369/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Bhanushankar369/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -838,4 +840,8 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Bhanushankar369/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
