@@ -107,6 +107,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0783-search-in-a-binary-search-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0907-koko-eating-bananas](https://github.com/Bhanushankar369/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/Bhanushankar369/LeetCode/tree/master/0975-range-sum-of-bst) |
+| [1046-max-consecutive-ones-iii](https://github.com/Bhanushankar369/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1397-search-suggestions-system](https://github.com/Bhanushankar369/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -221,6 +222,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0952-word-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0952-word-subsets) |
 | [1019-squares-of-a-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Bhanushankar369/LeetCode/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/Bhanushankar369/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/Bhanushankar369/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Bhanushankar369/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -276,6 +278,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Bhanushankar369/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/Bhanushankar369/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Bhanushankar369/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Bhanushankar369/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -676,6 +679,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0239-sliding-window-maximum](https://github.com/Bhanushankar369/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Bhanushankar369/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhanushankar369/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/Bhanushankar369/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bhanushankar369/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Bhanushankar369/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bhanushankar369/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
