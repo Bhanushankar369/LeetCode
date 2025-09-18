@@ -23,6 +23,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0404-sum-of-left-leaves](https://github.com/Bhanushankar369/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Bhanushankar369/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Bhanushankar369/LeetCode/tree/master/0764-n-ary-tree-level-order-traversal) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -63,6 +64,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0543-diameter-of-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Bhanushankar369/LeetCode/tree/master/0547-number-of-provinces) |
 | [0565-array-nesting](https://github.com/Bhanushankar369/LeetCode/tree/master/0565-array-nesting) |
+| [0572-subtree-of-another-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0684-redundant-connection](https://github.com/Bhanushankar369/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/Bhanushankar369/LeetCode/tree/master/0695-max-area-of-island) |
@@ -137,6 +139,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0404-sum-of-left-leaves](https://github.com/Bhanushankar369/LeetCode/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Bhanushankar369/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0623-add-one-row-to-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Bhanushankar369/LeetCode/tree/master/0904-leaf-similar-trees) |
@@ -463,6 +466,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [1524-string-matching-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bhanushankar369/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bhanushankar369/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -482,6 +486,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bhanushankar369/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Number Theory
 |  |
