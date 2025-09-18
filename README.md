@@ -531,6 +531,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Bhanushankar369/LeetCode/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bhanushankar369/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3678-design-task-manager](https://github.com/Bhanushankar369/LeetCode/tree/master/3678-design-task-manager) |
 ## Counting
 |  |
 | ------- |
@@ -564,6 +565,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0208-implement-trie-prefix-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1708-design-parking-system](https://github.com/Bhanushankar369/LeetCode/tree/master/1708-design-parking-system) |
+| [3678-design-task-manager](https://github.com/Bhanushankar369/LeetCode/tree/master/3678-design-task-manager) |
 ## Matrix
 |  |
 | ------- |
@@ -678,6 +680,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1753-path-with-minimum-effort](https://github.com/Bhanushankar369/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [3678-design-task-manager](https://github.com/Bhanushankar369/LeetCode/tree/master/3678-design-task-manager) |
 ## Sliding Window
 |  |
 | ------- |
@@ -851,6 +854,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Ordered Set
 |  |
 | ------- |
+| [3678-design-task-manager](https://github.com/Bhanushankar369/LeetCode/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Monotonic Stack
 |  |
