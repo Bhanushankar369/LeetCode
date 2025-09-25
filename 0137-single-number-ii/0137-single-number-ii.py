@@ -1,17 +1,14 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        ans = 0
-        for bitIndex in range(32):
-            count = 0
-            for n in nums:
-                if (n & (1 << bitIndex)): # Check if bitIndex bit is set or not
-                    count += 1
+        nums.sort()
 
-            if count%3 == 1:
-                ans = ans | (1 << bitIndex) # Set the bitIndex bit
-
-        # To handle negative integers
-        if ans >= (1 << 31):
-            ans -= (1 << 32)
-
-        return ans
+        i = 1
+        while i < len(nums):
+            if nums[i] != nums[i-1]:
+                if nums[i] != nums[i+1]:
+                    return nums[i]
+                return nums[i-1]
+            
+            i += 3
+        
+        return nums[-1]
