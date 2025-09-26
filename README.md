@@ -106,6 +106,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0300-longest-increasing-subsequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/Bhanushankar369/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0611-valid-triangle-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0907-koko-eating-bananas](https://github.com/Bhanushankar369/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0975-range-sum-of-bst](https://github.com/Bhanushankar369/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -209,6 +210,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0542-01-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0542-01-matrix) |
 | [0565-array-nesting](https://github.com/Bhanushankar369/LeetCode/tree/master/0565-array-nesting) |
 | [0605-can-place-flowers](https://github.com/Bhanushankar369/LeetCode/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Bhanushankar369/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0679-24-game](https://github.com/Bhanushankar369/LeetCode/tree/master/0679-24-game) |
@@ -569,6 +571,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0011-container-with-most-water](https://github.com/Bhanushankar369/LeetCode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/Bhanushankar369/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Bhanushankar369/LeetCode/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0890-lemonade-change](https://github.com/Bhanushankar369/LeetCode/tree/master/0890-lemonade-change) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bhanushankar369/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhanushankar369/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -641,6 +644,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanushankar369/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Bhanushankar369/LeetCode/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Bhanushankar369/LeetCode/tree/master/0721-accounts-merge) |
 | [1019-squares-of-a-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -669,6 +673,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0455-assign-cookies](https://github.com/Bhanushankar369/LeetCode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhanushankar369/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Bhanushankar369/LeetCode/tree/master/0567-permutation-in-string) |
+| [0611-valid-triangle-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0861-flipping-an-image](https://github.com/Bhanushankar369/LeetCode/tree/master/0861-flipping-an-image) |
 | [0908-middle-of-the-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
