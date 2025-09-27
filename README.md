@@ -298,6 +298,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Bhanushankar369/LeetCode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Bhanushankar369/LeetCode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Bhanushankar369/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Bhanushankar369/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Bhanushankar369/LeetCode/tree/master/0070-climbing-stairs) |
@@ -617,6 +618,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Bhanushankar369/LeetCode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0137-single-number-ii) |
