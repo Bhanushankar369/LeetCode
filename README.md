@@ -229,6 +229,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0890-lemonade-change](https://github.com/Bhanushankar369/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Bhanushankar369/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0952-word-subsets) |
+| [1018-largest-perimeter-triangle](https://github.com/Bhanushankar369/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Bhanushankar369/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bhanushankar369/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
@@ -313,6 +314,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0371-sum-of-two-integers](https://github.com/Bhanushankar369/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0679-24-game](https://github.com/Bhanushankar369/LeetCode/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/Bhanushankar369/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/Bhanushankar369/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Bhanushankar369/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Bhanushankar369/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1806-count-of-matches-in-tournament](https://github.com/Bhanushankar369/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
@@ -578,6 +580,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0605-can-place-flowers](https://github.com/Bhanushankar369/LeetCode/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0890-lemonade-change](https://github.com/Bhanushankar369/LeetCode/tree/master/0890-lemonade-change) |
+| [1018-largest-perimeter-triangle](https://github.com/Bhanushankar369/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bhanushankar369/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhanushankar369/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1448-maximum-69-number](https://github.com/Bhanushankar369/LeetCode/tree/master/1448-maximum-69-number) |
@@ -654,6 +657,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0611-valid-triangle-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0692-top-k-frequent-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Bhanushankar369/LeetCode/tree/master/0721-accounts-merge) |
+| [1018-largest-perimeter-triangle](https://github.com/Bhanushankar369/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1397-search-suggestions-system](https://github.com/Bhanushankar369/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhanushankar369/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
