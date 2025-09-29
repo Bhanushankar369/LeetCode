@@ -236,6 +236,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1046-max-consecutive-ones-iii](https://github.com/Bhanushankar369/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1073-number-of-enclaves](https://github.com/Bhanushankar369/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1105-uncrossed-lines](https://github.com/Bhanushankar369/LeetCode/tree/master/1105-uncrossed-lines) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Bhanushankar369/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Bhanushankar369/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1325-path-with-maximum-probability](https://github.com/Bhanushankar369/LeetCode/tree/master/1325-path-with-maximum-probability) |
@@ -811,6 +812,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0542-01-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhanushankar369/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1105-uncrossed-lines](https://github.com/Bhanushankar369/LeetCode/tree/master/1105-uncrossed-lines) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/Bhanushankar369/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-longest-common-subsequence](https://github.com/Bhanushankar369/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Bhanushankar369/LeetCode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Bhanushankar369/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
