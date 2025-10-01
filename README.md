@@ -332,6 +332,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bhanushankar369/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3336-water-bottles-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bhanushankar369/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Breadth-First Search
 |  |
@@ -399,6 +400,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [2299-merge-nodes-in-between-zeros](https://github.com/Bhanushankar369/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [3336-water-bottles-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Bhanushankar369/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Linked List
