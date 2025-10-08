@@ -119,6 +119,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhanushankar369/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/Bhanushankar369/LeetCode/tree/master/1753-path-with-minimum-effort) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Bhanushankar369/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Bhanushankar369/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Bhanushankar369/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Bhanushankar369/LeetCode/tree/master/2690-house-robber-iv) |
@@ -278,6 +279,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [2324-find-triangular-sum-of-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Bhanushankar369/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Bhanushankar369/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/Bhanushankar369/LeetCode/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Bhanushankar369/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -685,6 +687,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Bhanushankar369/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Bhanushankar369/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Bhanushankar369/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
 |  |
 | ------- |
@@ -712,6 +715,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [2128-reverse-prefix-of-word](https://github.com/Bhanushankar369/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Bhanushankar369/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Bhanushankar369/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Bhanushankar369/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Brainteaser
