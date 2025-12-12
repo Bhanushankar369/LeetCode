@@ -252,6 +252,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1397-search-suggestions-system](https://github.com/Bhanushankar369/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bhanushankar369/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhanushankar369/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Bhanushankar369/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Bhanushankar369/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1524-string-matching-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -401,6 +402,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0054-spiral-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Bhanushankar369/LeetCode/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/Bhanushankar369/LeetCode/tree/master/0861-flipping-an-image) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Bhanushankar369/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Bhanushankar369/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/Bhanushankar369/LeetCode/tree/master/1642-water-bottles) |
 | [1708-design-parking-system](https://github.com/Bhanushankar369/LeetCode/tree/master/1708-design-parking-system) |
@@ -439,6 +441,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0227-basic-calculator-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0682-baseball-game](https://github.com/Bhanushankar369/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Bhanushankar369/LeetCode/tree/master/0739-daily-temperatures) |
+| [1441-build-an-array-with-stack-operations](https://github.com/Bhanushankar369/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhanushankar369/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Bhanushankar369/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
