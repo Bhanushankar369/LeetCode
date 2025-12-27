@@ -254,6 +254,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhanushankar369/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Bhanushankar369/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bhanushankar369/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Bhanushankar369/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1524-string-matching-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Bhanushankar369/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -697,6 +698,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1397-search-suggestions-system](https://github.com/Bhanushankar369/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhanushankar369/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bhanushankar369/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Bhanushankar369/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Bhanushankar369/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
