@@ -206,6 +206,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0260-single-number-iii](https://github.com/Bhanushankar369/LeetCode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/Bhanushankar369/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Bhanushankar369/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/Bhanushankar369/LeetCode/tree/master/0399-evaluate-division) |
@@ -307,6 +308,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Bhanushankar369/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Bhanushankar369/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bhanushankar369/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Bhanushankar369/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -622,6 +624,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0155-min-stack](https://github.com/Bhanushankar369/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/Bhanushankar369/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1708-design-parking-system](https://github.com/Bhanushankar369/LeetCode/tree/master/1708-design-parking-system) |
 | [3678-design-task-manager](https://github.com/Bhanushankar369/LeetCode/tree/master/3678-design-task-manager) |
 ## Matrix
