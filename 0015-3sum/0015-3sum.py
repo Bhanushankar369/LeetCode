@@ -18,4 +18,10 @@ class Solution:
                     i+=1
                     j-=1
 
+                    # same numbers gives same result so we skip them
+                    while nums[i] == nums[i-1] and i < j:
+                        i += 1
+                    while nums[j] == nums[j+1] and i < j:
+                        j -= 1
+
         return list(ans)
