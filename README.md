@@ -239,6 +239,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0861-flipping-an-image](https://github.com/Bhanushankar369/LeetCode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/Bhanushankar369/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Bhanushankar369/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0912-sort-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0912-sort-an-array) |
 | [0952-word-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0952-word-subsets) |
 | [1018-largest-perimeter-triangle](https://github.com/Bhanushankar369/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -699,6 +700,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0645-set-mismatch](https://github.com/Bhanushankar369/LeetCode/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Bhanushankar369/LeetCode/tree/master/0721-accounts-merge) |
+| [0912-sort-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0912-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Bhanushankar369/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhanushankar369/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -756,6 +758,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0744-network-delay-time](https://github.com/Bhanushankar369/LeetCode/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Bhanushankar369/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhanushankar369/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0912-sort-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0912-sort-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/Bhanushankar369/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/Bhanushankar369/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -785,6 +788,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0191-number-of-1-bits](https://github.com/Bhanushankar369/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Bhanushankar369/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -796,6 +800,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0347-top-k-frequent-elements](https://github.com/Bhanushankar369/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanushankar369/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0912-sort-an-array) |
 ## Queue
 |  |
 | ------- |
@@ -956,5 +961,14 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhanushankar369/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
