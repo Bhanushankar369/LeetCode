@@ -1,17 +1,23 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        ds=[]
-        ans=[]
-        def recurs(ind, target, candidates, ds, ans):
-            if ind == len(candidates):
-                if target == 0:
-                    ans.append(ds[:])
-                return
-            
-            if candidates[ind] <= target:
-                ds.append(candidates[ind])
-                recurs(ind, target-candidates[ind], candidates, ds, ans)
-                ds.pop()
-            recurs(ind+1, target, candidates, ds, ans)
-        recurs(0, target, candidates, ds, ans)
+        ans = []
+        temp = []
+        self.combinations(0, ans, temp, target, candidates)
         return ans
+
+    def combinations(self, ind, arr, temp, target, candidates):
+
+        if target == 0:
+            arr.append(temp[:])
+            return
+
+        if target < 0 or ind == len(candidates):
+            return
+
+        target -= candidates[ind]
+        temp.append(candidates[ind])
+        self.combinations(ind, arr, temp, target, candidates)
+
+        target += candidates[ind]
+        temp.pop()
+        self.combinations(ind+1, arr, temp, target, candidates)
