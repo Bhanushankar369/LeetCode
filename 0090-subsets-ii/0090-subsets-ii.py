@@ -2,8 +2,6 @@ class Solution:
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
         ans = []
 
-        check = [[]]
-
         nums.sort()
 
         def sets(ind, arr, temp, nums):
