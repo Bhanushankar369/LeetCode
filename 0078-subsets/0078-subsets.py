@@ -1,18 +1,17 @@
 class Solution:
-    def subsets(self, nums: List[int]) -> List[List[int]]:
-        dest = 2**len(nums)
-        res = []
+    def subsets(self, arr: List[int]) -> List[List[int]]:
+        ans = []
 
-        for i in range(dest):
-            lst = []
-            ind = 0
-            while i != 0:
-                if (i%2):
-                    lst.append(nums[ind])
-                
-                ind += 1
-                i //= 2
+        def sets(ind, ans, temp, arr):
+            if ind == len(arr):
+                ans.append(temp[:])
+                return
 
-            res.append(lst)
-        
-        return res
+            temp.append(arr[ind])
+            sets(ind+1, ans, temp, arr)
+
+            temp.pop()
+            sets(ind+1, ans, temp, arr)
+
+        sets(0, ans, [], arr)
+        return ans
