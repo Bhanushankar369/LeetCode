@@ -1,14 +1,26 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-        def recursive(nums, perm=[], res=[]):
-            if not nums:
-                res.append(perm[:])
+
+        ans = []
+        map = {}
+
+        for i in range(len(nums)):
+            map[nums[i]] = 0
+
+        def recurs(nums, ds, temp, map):
+            if len(temp) == len(nums):
+                ds.append(temp[:])
+                return
 
             for i in range(len(nums)):
-                newNums = nums[:i] + nums[i+1:]
-                perm.append(nums[i])
-                recursive(newNums, perm, res)
-                perm.pop()
-            return res
+                if not map[nums[i]]:
+                    map[nums[i]] = 1
+                    temp.append(nums[i])
 
-        return recursive(nums)
+                    recurs(nums, ds, temp, map)
+
+                    temp.pop()
+                    map[nums[i]] = 0
+            
+        recurs(nums, ans, [], map)
+        return ans
