@@ -1,26 +1,15 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
-
-        ans = []
-        map = {}
-
-        for i in range(len(nums)):
-            map[nums[i]] = 0
-
-        def recurs(nums, ds, temp, map):
-            if len(temp) == len(nums):
-                ds.append(temp[:])
+        ds = []
+        def recurs(ind, ds, nums):
+            if ind == len(nums):
+                ds.append(nums[:])
                 return
 
-            for i in range(len(nums)):
-                if not map[nums[i]]:
-                    map[nums[i]] = 1
-                    temp.append(nums[i])
-
-                    recurs(nums, ds, temp, map)
-
-                    temp.pop()
-                    map[nums[i]] = 0
-            
-        recurs(nums, ans, [], map)
-        return ans
+            for i in range(ind, len(nums)):
+                nums[i], nums[ind] = nums[ind], nums[i]
+                recurs(ind+1, ds, nums)
+                nums[i], nums[ind] = nums[ind], nums[i] # To get previous arr state
+        
+        recurs(0, ds, nums)
+        return ds
