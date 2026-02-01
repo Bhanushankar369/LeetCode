@@ -469,6 +469,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0097-interleaving-string](https://github.com/Bhanushankar369/LeetCode/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/Bhanushankar369/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Bhanushankar369/LeetCode/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Bhanushankar369/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Bhanushankar369/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Bhanushankar369/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Bhanushankar369/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -833,6 +834,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0079-word-search](https://github.com/Bhanushankar369/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Bhanushankar369/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/Bhanushankar369/LeetCode/tree/master/0679-24-game) |
 | [0813-all-paths-from-source-to-target](https://github.com/Bhanushankar369/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
@@ -858,6 +860,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0118-pascals-triangle](https://github.com/Bhanushankar369/LeetCode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/Bhanushankar369/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Bhanushankar369/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Bhanushankar369/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Bhanushankar369/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Bhanushankar369/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Bhanushankar369/LeetCode/tree/master/0198-house-robber) |
