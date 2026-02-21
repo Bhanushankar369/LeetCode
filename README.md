@@ -54,6 +54,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0200-number-of-islands](https://github.com/Bhanushankar369/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Bhanushankar369/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Bhanushankar369/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -476,6 +477,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0165-compare-version-numbers](https://github.com/Bhanushankar369/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Bhanushankar369/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Bhanushankar369/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Bhanushankar369/LeetCode/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -530,6 +532,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0014-longest-common-prefix](https://github.com/Bhanushankar369/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Bhanushankar369/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Bhanushankar369/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0692-top-k-frequent-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1397-search-suggestions-system](https://github.com/Bhanushankar369/LeetCode/tree/master/1397-search-suggestions-system) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bhanushankar369/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -632,6 +635,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | ------- |
 | [0155-min-stack](https://github.com/Bhanushankar369/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Bhanushankar369/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Bhanushankar369/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1708-design-parking-system](https://github.com/Bhanushankar369/LeetCode/tree/master/1708-design-parking-system) |
