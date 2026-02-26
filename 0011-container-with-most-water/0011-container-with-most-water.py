@@ -1,15 +1,18 @@
 class Solution:
     def maxArea(self, nums: List[int]) -> int:
-        i = 0
-        j = len(nums)-1
-        m = float('-inf')
-        while(i < j):
-            water = abs(j-i)*(min(nums[i], nums[j]))
-            m = max(m, water)
+        left = 0
+        right = len(nums)-1
 
-            if nums[i] < nums[j]:
-                i+=1
+        maxi = float('-inf')
+
+        while (left < right):
+            water = abs(left-right) * min(nums[left], nums[right])
+            maxi = max(water, maxi)
+
+            if nums[left] < nums[right]:
+                left += 1
             else:
-                j-=1
-        return m
+                right -= 1
+        
+        return maxi
         
