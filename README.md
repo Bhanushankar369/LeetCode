@@ -266,6 +266,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhanushankar369/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Bhanushankar369/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhanushankar369/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bhanushankar369/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Bhanushankar369/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1524-string-matching-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -456,6 +457,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0682-baseball-game](https://github.com/Bhanushankar369/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Bhanushankar369/LeetCode/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Bhanushankar369/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhanushankar369/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhanushankar369/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Bhanushankar369/LeetCode/tree/master/2128-reverse-prefix-of-word) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -983,6 +985,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Bhanushankar369/LeetCode/tree/master/0739-daily-temperatures) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhanushankar369/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Geometry
 |  |
 | ------- |
