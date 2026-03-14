@@ -186,6 +186,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0075-sort-colors](https://github.com/Bhanushankar369/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Bhanushankar369/LeetCode/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bhanushankar369/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -451,6 +452,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhanushankar369/LeetCode/tree/master/0020-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bhanushankar369/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Bhanushankar369/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Bhanushankar369/LeetCode/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -984,6 +986,7 @@ This repository is for the problems that I have solved in my DSA journey.
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Bhanushankar369/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Bhanushankar369/LeetCode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhanushankar369/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Geometry
