@@ -255,6 +255,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1019-squares-of-a-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Bhanushankar369/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bhanushankar369/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/Bhanushankar369/LeetCode/tree/master/1046-last-stone-weight) |
 | [1073-number-of-enclaves](https://github.com/Bhanushankar369/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1105-uncrossed-lines](https://github.com/Bhanushankar369/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Bhanushankar369/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -788,6 +789,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0794-swim-in-rising-water](https://github.com/Bhanushankar369/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhanushankar369/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Bhanushankar369/LeetCode/tree/master/1046-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/Bhanushankar369/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/Bhanushankar369/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
