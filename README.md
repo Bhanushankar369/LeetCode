@@ -263,6 +263,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Bhanushankar369/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
 | [1325-path-with-maximum-probability](https://github.com/Bhanushankar369/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Bhanushankar369/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhanushankar369/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1397-search-suggestions-system](https://github.com/Bhanushankar369/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/Bhanushankar369/LeetCode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -793,6 +794,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0912-sort-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Bhanushankar369/LeetCode/tree/master/1046-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/Bhanushankar369/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1354-construct-target-array-with-multiple-sums](https://github.com/Bhanushankar369/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1397-search-suggestions-system](https://github.com/Bhanushankar369/LeetCode/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
