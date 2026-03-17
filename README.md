@@ -501,6 +501,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0399-evaluate-division](https://github.com/Bhanushankar369/LeetCode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/Bhanushankar369/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Bhanushankar369/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0482-license-key-formatting](https://github.com/Bhanushankar369/LeetCode/tree/master/0482-license-key-formatting) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Bhanushankar369/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Bhanushankar369/LeetCode/tree/master/0567-permutation-in-string) |
 | [0692-top-k-frequent-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0692-top-k-frequent-words) |
