@@ -508,6 +508,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0692-top-k-frequent-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Bhanushankar369/LeetCode/tree/master/0721-accounts-merge) |
 | [0782-jewels-and-stones](https://github.com/Bhanushankar369/LeetCode/tree/master/0782-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Bhanushankar369/LeetCode/tree/master/0796-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0831-masking-personal-information](https://github.com/Bhanushankar369/LeetCode/tree/master/0831-masking-personal-information) |
 | [0837-most-common-word](https://github.com/Bhanushankar369/LeetCode/tree/master/0837-most-common-word) |
@@ -541,6 +542,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Bhanushankar369/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/Bhanushankar369/LeetCode/tree/master/0796-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bhanushankar369/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bhanushankar369/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
