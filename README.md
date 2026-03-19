@@ -444,6 +444,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Bhanushankar369/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Bhanushankar369/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/Bhanushankar369/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Bhanushankar369/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -584,6 +585,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0127-word-ladder](https://github.com/Bhanushankar369/LeetCode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Bhanushankar369/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Bhanushankar369/LeetCode/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/Bhanushankar369/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Bhanushankar369/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Bhanushankar369/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Bhanushankar369/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
