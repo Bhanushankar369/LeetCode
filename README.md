@@ -283,6 +283,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhanushankar369/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/Bhanushankar369/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Bhanushankar369/LeetCode/tree/master/1706-min-cost-to-connect-all-points) |
+| [1732-find-the-highest-altitude](https://github.com/Bhanushankar369/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Bhanushankar369/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
 | [1753-path-with-minimum-effort](https://github.com/Bhanushankar369/LeetCode/tree/master/1753-path-with-minimum-effort) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Bhanushankar369/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -329,6 +330,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1046-max-consecutive-ones-iii](https://github.com/Bhanushankar369/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Bhanushankar369/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1603-running-sum-of-1d-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Bhanushankar369/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-find-the-highest-altitude](https://github.com/Bhanushankar369/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2358-number-of-ways-to-split-array](https://github.com/Bhanushankar369/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [3643-zero-array-transformation-ii](https://github.com/Bhanushankar369/LeetCode/tree/master/3643-zero-array-transformation-ii) |
