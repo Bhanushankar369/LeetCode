@@ -4,6 +4,7 @@ class Solution:
         maxi = 0
         for i in range(len(gain)):
             curr += gain[i]
-            maxi = max(maxi, curr)
+            if curr > maxi:
+                maxi = curr
         
         return maxi
