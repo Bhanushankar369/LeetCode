@@ -279,6 +279,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1547-destination-city](https://github.com/Bhanushankar369/LeetCode/tree/master/1547-destination-city) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1580-shuffle-the-array) |
+| [1590-make-sum-divisible-by-p](https://github.com/Bhanushankar369/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Bhanushankar369/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/Bhanushankar369/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -329,6 +330,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0303-range-sum-query-immutable](https://github.com/Bhanushankar369/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/Bhanushankar369/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Bhanushankar369/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1590-make-sum-divisible-by-p](https://github.com/Bhanushankar369/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1603-running-sum-of-1d-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Bhanushankar369/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-find-the-highest-altitude](https://github.com/Bhanushankar369/LeetCode/tree/master/1833-find-the-highest-altitude) |
@@ -621,6 +623,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Bhanushankar369/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Bhanushankar369/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1547-destination-city](https://github.com/Bhanushankar369/LeetCode/tree/master/1547-destination-city) |
+| [1590-make-sum-divisible-by-p](https://github.com/Bhanushankar369/LeetCode/tree/master/1590-make-sum-divisible-by-p) |
 | [1635-number-of-good-pairs](https://github.com/Bhanushankar369/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Bhanushankar369/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Bhanushankar369/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
