@@ -253,6 +253,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0907-koko-eating-bananas](https://github.com/Bhanushankar369/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0912-sort-an-array) |
 | [0952-word-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0952-word-subsets) |
+| [0973-k-closest-points-to-origin](https://github.com/Bhanushankar369/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Bhanushankar369/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Bhanushankar369/LeetCode/tree/master/1036-rotting-oranges) |
@@ -356,6 +357,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0371-sum-of-two-integers](https://github.com/Bhanushankar369/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0679-24-game](https://github.com/Bhanushankar369/LeetCode/tree/master/0679-24-game) |
 | [0830-largest-triangle-area](https://github.com/Bhanushankar369/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/Bhanushankar369/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Bhanushankar369/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/Bhanushankar369/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/Bhanushankar369/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -748,6 +750,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0692-top-k-frequent-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0721-accounts-merge](https://github.com/Bhanushankar369/LeetCode/tree/master/0721-accounts-merge) |
 | [0912-sort-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Bhanushankar369/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Bhanushankar369/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Bhanushankar369/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -811,6 +814,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0794-swim-in-rising-water](https://github.com/Bhanushankar369/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhanushankar369/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Bhanushankar369/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Bhanushankar369/LeetCode/tree/master/1046-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/Bhanushankar369/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1354-construct-target-array-with-multiple-sums](https://github.com/Bhanushankar369/LeetCode/tree/master/1354-construct-target-array-with-multiple-sums) |
@@ -843,11 +847,13 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Bhanushankar369/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Bhanushankar369/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Bhanushankar369/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Bhanushankar369/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1021,6 +1027,7 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Bhanushankar369/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/Bhanushankar369/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Counting Sort
 |  |
 | ------- |
