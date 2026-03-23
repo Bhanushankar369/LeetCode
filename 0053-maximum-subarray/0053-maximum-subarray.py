@@ -2,6 +2,8 @@ class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         curr = 0
         maxi = 0
+        if max(nums)<0:
+            return max(nums)
 
         for i in range(len(nums)):
             curr += nums[i]
@@ -10,4 +12,4 @@ class Solution:
             
             maxi = max(curr, maxi)
         
-        return max(maxi, max(nums))
+        return max(maxi, curr)
