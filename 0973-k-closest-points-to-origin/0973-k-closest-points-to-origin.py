@@ -6,14 +6,12 @@ class Solution:
         heap = []
         for x, y in points:
             dist = math.sqrt(x*x + y*y)
-            heap.append((dist, (x, y)))
-        
-        heapq.heapify(heap)
+            heapq.heappush(heap, (-dist, (x, y)))
+            if len(heap) > k:
+                heapq.heappop(heap)
+
         ans = []
-
-        while k:
-            _, (x, y) = heapq.heappop(heap)
-            ans.append([x, y])
-            k -= 1
-
+        for _, point in heap:
+            ans.append(point)
+        
         return ans
