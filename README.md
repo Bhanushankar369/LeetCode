@@ -29,6 +29,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Bhanushankar369/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [0965-univalued-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Bhanushankar369/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Bhanushankar369/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -83,6 +84,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0854-making-a-large-island](https://github.com/Bhanushankar369/LeetCode/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/Bhanushankar369/LeetCode/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/Bhanushankar369/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [0965-univalued-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Bhanushankar369/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Bhanushankar369/LeetCode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/Bhanushankar369/LeetCode/tree/master/1073-number-of-enclaves) |
@@ -151,6 +153,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0623-add-one-row-to-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Bhanushankar369/LeetCode/tree/master/0904-leaf-similar-trees) |
+| [0965-univalued-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0975-range-sum-of-bst](https://github.com/Bhanushankar369/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Bhanushankar369/LeetCode/tree/master/1207-delete-nodes-and-return-forest) |
@@ -414,6 +417,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0820-find-eventual-safe-states](https://github.com/Bhanushankar369/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Bhanushankar369/LeetCode/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/Bhanushankar369/LeetCode/tree/master/0871-keys-and-rooms) |
+| [0965-univalued-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Bhanushankar369/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Bhanushankar369/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
