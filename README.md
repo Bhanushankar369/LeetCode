@@ -255,6 +255,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0890-lemonade-change](https://github.com/Bhanushankar369/LeetCode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Bhanushankar369/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0912-sort-an-array) |
+| [0931-minimum-falling-path-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [0952-word-subsets](https://github.com/Bhanushankar369/LeetCode/tree/master/0952-word-subsets) |
 | [0973-k-closest-points-to-origin](https://github.com/Bhanushankar369/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Bhanushankar369/LeetCode/tree/master/1018-largest-perimeter-triangle) |
@@ -702,6 +703,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0794-swim-in-rising-water](https://github.com/Bhanushankar369/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Bhanushankar369/LeetCode/tree/master/0854-making-a-large-island) |
 | [0861-flipping-an-image](https://github.com/Bhanushankar369/LeetCode/tree/master/0861-flipping-an-image) |
+| [0931-minimum-falling-path-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Bhanushankar369/LeetCode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Bhanushankar369/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -933,6 +935,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0494-target-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Bhanushankar369/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/Bhanushankar369/LeetCode/tree/master/0931-minimum-falling-path-sum) |
 | [1105-uncrossed-lines](https://github.com/Bhanushankar369/LeetCode/tree/master/1105-uncrossed-lines) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Bhanushankar369/LeetCode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1250-longest-common-subsequence](https://github.com/Bhanushankar369/LeetCode/tree/master/1250-longest-common-subsequence) |
