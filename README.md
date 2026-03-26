@@ -297,6 +297,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1833-find-the-highest-altitude](https://github.com/Bhanushankar369/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Bhanushankar369/LeetCode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Bhanushankar369/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Bhanushankar369/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Bhanushankar369/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Bhanushankar369/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/Bhanushankar369/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -766,6 +767,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bhanushankar369/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Bhanushankar369/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1742-widest-vertical-area-between-two-points-containing-no-points](https://github.com/Bhanushankar369/LeetCode/tree/master/1742-widest-vertical-area-between-two-points-containing-no-points) |
+| [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/Bhanushankar369/LeetCode/tree/master/1887-reduction-operations-to-make-the-array-elements-equal) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Bhanushankar369/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Bhanushankar369/LeetCode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Two Pointers
