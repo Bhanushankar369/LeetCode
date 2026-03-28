@@ -113,6 +113,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0367-valid-perfect-square](https://github.com/Bhanushankar369/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/Bhanushankar369/LeetCode/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/Bhanushankar369/LeetCode/tree/master/0704-binary-search) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0794-swim-in-rising-water](https://github.com/Bhanushankar369/LeetCode/tree/master/0794-swim-in-rising-water) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Bhanushankar369/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -244,6 +245,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0682-baseball-game](https://github.com/Bhanushankar369/LeetCode/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Bhanushankar369/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/Bhanushankar369/LeetCode/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/Bhanushankar369/LeetCode/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/Bhanushankar369/LeetCode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Bhanushankar369/LeetCode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Bhanushankar369/LeetCode/tree/master/0739-daily-temperatures) |
