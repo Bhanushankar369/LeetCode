@@ -276,6 +276,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/Bhanushankar369/LeetCode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Bhanushankar369/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Bhanushankar369/LeetCode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1472-design-browser-history](https://github.com/Bhanushankar369/LeetCode/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhanushankar369/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Bhanushankar369/LeetCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Bhanushankar369/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
@@ -464,6 +465,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0147-insertion-sort-list](https://github.com/Bhanushankar369/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/Bhanushankar369/LeetCode/tree/master/1472-design-browser-history) |
 | [1765-merge-in-between-linked-lists](https://github.com/Bhanushankar369/LeetCode/tree/master/1765-merge-in-between-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Bhanushankar369/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Bhanushankar369/LeetCode/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -480,6 +482,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0682-baseball-game](https://github.com/Bhanushankar369/LeetCode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Bhanushankar369/LeetCode/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Bhanushankar369/LeetCode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1472-design-browser-history](https://github.com/Bhanushankar369/LeetCode/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Bhanushankar369/LeetCode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhanushankar369/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Bhanushankar369/LeetCode/tree/master/2128-reverse-prefix-of-word) |
@@ -683,6 +686,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [0232-implement-queue-using-stacks](https://github.com/Bhanushankar369/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bhanushankar369/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Bhanushankar369/LeetCode/tree/master/0303-range-sum-query-immutable) |
+| [1472-design-browser-history](https://github.com/Bhanushankar369/LeetCode/tree/master/1472-design-browser-history) |
 | [1708-design-parking-system](https://github.com/Bhanushankar369/LeetCode/tree/master/1708-design-parking-system) |
 | [3678-design-task-manager](https://github.com/Bhanushankar369/LeetCode/tree/master/3678-design-task-manager) |
 ## Matrix
@@ -1060,4 +1064,12 @@ This repository is for the problems that I have solved in my DSA journey.
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Bhanushankar369/LeetCode/tree/master/0332-reconstruct-itinerary) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Bhanushankar369/LeetCode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/Bhanushankar369/LeetCode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
