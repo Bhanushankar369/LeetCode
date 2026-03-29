@@ -559,6 +559,7 @@ This repository is for the problems that I have solved in my DSA journey.
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Bhanushankar369/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bhanushankar369/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Bhanushankar369/LeetCode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Bhanushankar369/LeetCode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3194-find-words-containing-character](https://github.com/Bhanushankar369/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Bhanushankar369/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3396-valid-word](https://github.com/Bhanushankar369/LeetCode/tree/master/3396-valid-word) |
